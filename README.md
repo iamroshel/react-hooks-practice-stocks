@@ -1,4 +1,4 @@
-# Practice Challenge: Flatiron Stock Exchange
+# Practice Challenge: Flatiron Stock Exchange c
 
 ![demo](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-practice-stocks/stocks.gif)
 
